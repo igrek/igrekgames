@@ -9,5 +9,19 @@
         "name": "Jacek &quot;Igrek&quot; Perzanowski"
     },
     "items": [
+        {
+            "id": "https://igrek.github.io/igrekgames/destropolis.html",
+            "url": "https://igrek.github.io/igrekgames/destropolis.html",
+            "title": "Destropolis",
+            "summary": "Destropolis is a top-down shooter game with a fully destructible environment, hundreds of enemies and nuclear explosions. Fight a countless swarm of enemies. Tear them to pieces with bullets, lasers and explosions. Destroy as many of them as you can before they overwhelm you...",
+            "content_html": "\n  <p>\n    <b>Destropolis</b> is a top-down shooter game with a fully destructible environment, hundreds of enemies and nuclear explosions. Fight a countless swarm of enemies. Tear them to pieces with bullets, lasers and explosions. Destroy as many of them as you can before they overwhelm you...\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://igrek.github.io/igrekgames/media/posts/3/Page-Background.png\" height=\"810\" width=\"1438\" alt=\"\"  sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://igrek.github.io/igrekgames/media/posts/3/responsive/Page-Background-xs.png 640w ,https://igrek.github.io/igrekgames/media/posts/3/responsive/Page-Background-sm.png 768w ,https://igrek.github.io/igrekgames/media/posts/3/responsive/Page-Background-md.png 1024w ,https://igrek.github.io/igrekgames/media/posts/3/responsive/Page-Background-lg.png 1366w ,https://igrek.github.io/igrekgames/media/posts/3/responsive/Page-Background-xl.png 1600w ,https://igrek.github.io/igrekgames/media/posts/3/responsive/Page-Background-2xl.png 1920w\">\n      \n    </figure>",
+            "author": {
+                "name": "Jacek &quot;Igrek&quot; Perzanowski"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-06-11T12:04:08+02:00",
+            "date_modified": "2026-06-11T12:04:08+02:00"
+        }
     ]
 }
