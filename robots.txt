@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://igrek.github.io/igrekgames/sitemap.xml
+Sitemap: https://igrekgames.com/sitemap.xml
